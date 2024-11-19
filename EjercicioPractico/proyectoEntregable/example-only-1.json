@@ -1,0 +1,24 @@
+{
+  "envios": [
+    {
+      "shippingId": 1,
+      "time-start-in-seg": 1,
+      "next-state": true
+    },
+    {
+      "shippingId": 1,
+      "time-start-in-seg": 2,
+      "next-state": true
+    },
+    {
+      "shippingId": 1,
+      "time-start-in-seg": 2,
+      "next-state": true
+    },
+    {
+      "shippingId": 1,
+      "time-start-in-seg": 6,
+      "next-state": true
+    }
+  ]
+}

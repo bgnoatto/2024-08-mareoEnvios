@@ -1,0 +1,89 @@
+{
+  "envios": [
+    {
+      "shippingId": 1,
+      "time-start-in-seg": 1,
+      "next-state": true
+    },
+    {
+      "shippingId": 2,
+      "time-start-in-seg": 1,
+      "next-state": true
+    },
+    {
+      "shippingId": 3,
+      "time-start-in-seg": 2,
+      "next-state": true
+    },
+    {
+      "shippingId": 4,
+      "time-start-in-seg": 2,
+      "next-state": true
+    },
+    {
+      "shippingId": 5,
+      "time-start-in-seg": 3,
+      "next-state": true
+    },
+    {
+      "shippingId": 1,
+      "time-start-in-seg": 2,
+      "next-state": true
+    },
+    {
+      "shippingId": 1,
+      "time-start-in-seg": 2,
+      "next-state": true
+    },
+    {
+      "shippingId": 3,
+      "time-start-in-seg": 5,
+      "next-state": true
+    },
+    {
+      "shippingId": 4,
+      "time-start-in-seg": 4,
+      "next-state": false
+    },
+    {
+      "shippingId": 5,
+      "time-start-in-seg": 7,
+      "next-state": true
+    },
+    {
+      "shippingId": 2,
+      "time-start-in-seg": 4,
+      "next-state": true
+    },
+    {
+      "shippingId": 2,
+      "time-start-in-seg": 6,
+      "next-state": false
+    },
+    {
+      "shippingId": 4,
+      "time-start-in-seg": 8,
+      "next-state": false
+    },
+    {
+      "shippingId": 1,
+      "time-start-in-seg": 6,
+      "next-state": true
+    },
+    {
+      "shippingId": 2,
+      "time-start-in-seg": 7,
+      "next-state": false
+    },
+    {
+      "shippingId": 3,
+      "time-start-in-seg": 8,
+      "next-state": true
+    },
+    {
+      "shippingId": 5,
+      "time-start-in-seg": 12,
+      "next-state": true
+    }
+  ]
+}
